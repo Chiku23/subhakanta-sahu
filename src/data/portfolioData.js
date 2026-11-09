@@ -6,7 +6,7 @@ export const profile = {
   currentLocation: 'Currently working in Pune, India',
   phone: '+91 8328850358',
   phoneLink: 'tel:+918328850358',
-  email: 'subhakantacs2000@gmail.com',
+  email: 'subhakanta.sahu.dev@outlook.com',
   linkedin: 'https://linkedin.com/in/subhakanta-sahu',
   github: 'https://github.com/Chiku23',
   summary: 'Full-stack web developer with 4.5+ years of experience building and maintaining enterprise web applications and custom CMS solutions using PHP, Laravel, WordPress, MySQL, and JavaScript. Delivered real-time analytics dashboards, secure document workflows, ticketing, and catalog automation across 400+ multi-tenant sites. Strong in REST APIs, responsive UI, and client-side security, with experience leading frontend architecture and building modern React.js and TypeScript interfaces.',
